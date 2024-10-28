@@ -1,12 +1,12 @@
 # ride-sharing
 
- 1. User Registration and Login
+ # 1. User Registration and Login
    -   Rider and Driver  : Both need to register and log in using the platform’s mobile app or web interface.
    -   Backend  :
      - When a user registers, their information (e.g., name, email, phone, type of user) is stored in PostgreSQL.
      - The user’s login creates a JSON Web Token (JWT) to authenticate them during their session, enabling secure access to features.
 
-2.   Requesting a Ride (Rider’s Perspective)  
+# 2.   Requesting a Ride (Rider’s Perspective)  
    -   Rider  : 
      - Opens the app, selects their pick-up and drop-off locations, and clicks "Request Ride."
      - The app displays a waiting screen as it searches for available drivers.
