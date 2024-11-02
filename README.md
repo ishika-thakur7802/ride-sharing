@@ -1,4 +1,5 @@
-# ride-sharing
+# Real Time Ride-Sharing
+
 
  # 1. User Registration and Login
    -   Rider and Driver  : Both need to register and log in using the platform’s mobile app or web interface.
